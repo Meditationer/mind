@@ -1,0 +1,13 @@
+语言：js，vue，go
+框架：springBoot，springCloud，dubbo，mybatis等。
+其他：redis，k8s，kafka，git，Docker，hadoop，dubbo是个微服务框架，zookeeper可以作为注册中心
+	restful api。mysql
+
+自我介绍，为什么离职，还有什么想问的，业务细节，项目难点
+
+
+微观经济学、宏观经济学、计量经济学
+数据结构,高等数学,C++程序设计,计算机网络原理
+
+中南大学，政治，英语，数学，专业课
+计算机网络原理	高等数学	C++程序设计	 离散数学
